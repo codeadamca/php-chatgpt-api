@@ -1,2 +1,16 @@
-# php-chatgpt-api
-A series of basic ChatGPT API calls using PHP and cURL. 
+# Using PHP with the OpenAI API
+
+> **Warning**  
+> This repo is a work in progress!
+
+A series of basic OPenAI API calls using PHP and cURL. 
+
+***
+
+## Repo Resources
+
+* [OpenAI](https://openai.com/)
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
