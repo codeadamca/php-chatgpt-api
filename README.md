@@ -1,6 +1,6 @@
 # Using PHP with the OpenAI API
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 A series of basic OPenAI API calls using PHP and cURL. 
